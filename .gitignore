@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# 计算产物 / 测试输出
+OUTCAR
+OSZICAR
+CHGCAR
+WAVECAR
+vasprun.xml
+*.restart
+_test*
+path.poscar
+path.cif
+barrier.csv
+barrier.png
+
+*.log
+.DS_Store
